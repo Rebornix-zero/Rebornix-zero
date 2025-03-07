@@ -7,5 +7,3 @@
 
 ## Profile
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebornix-zero&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=tokyonight)
-
-> p.s. I am also skilled for `Golang`, `Python` and `TypeScript`, you can find them from organizations I have joined.
